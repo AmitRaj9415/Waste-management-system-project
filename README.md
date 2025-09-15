@@ -34,11 +34,12 @@
 >>  <img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/c241f0f3-8e37-4583-8bb1-d229c3e8b6bd" />
 
 - Now Type this cmd in terminal:
-- - > npm start
+>>> npm start
 
 
 ###### Note: Admin Id : Amit@gmail.com
-######       Password: Amit@123
+
+###### Password: Amit@123
 
 
 
